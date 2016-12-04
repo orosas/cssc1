@@ -1,0 +1,5 @@
+*.pyc
+__pycache__
+cssc1
+/static
+.DS_Store
